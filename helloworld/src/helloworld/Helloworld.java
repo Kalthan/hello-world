@@ -39,7 +39,7 @@ class Helloworld {
     } // end bubbleSort
     
     public static void main(String[] args) {
-        int[] unsorted = {1, 18, 2, 4, 3};
+        int[] unsorted = {1, 111, 2, 4, 3};
         bubbleSort(unsorted);
     }
 }
